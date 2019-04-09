@@ -7,7 +7,7 @@ On clicking the particular person his/her detail is shown by using dialogue box 
 
 
 
-1.The screen shot of ruuning application is given below.
+1.The screenshot of running application is given below.
 
 
 
@@ -18,5 +18,5 @@ On clicking the particular person his/her detail is shown by using dialogue box 
 
 
 
-2.On clicking particular person the result is as shown below.
+2.On clicking the particular person the result is as shown below.
 
