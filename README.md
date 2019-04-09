@@ -9,14 +9,8 @@ On clicking the particular person his/her detail is shown by using dialogue box 
 
 1.The screenshot of running application is given below.
 
-
-
-
-
-
-
-
-
+<img src="/scshot/one[1].jpg" height="500px" width="300px">
 
 2.On clicking the particular person the result is as shown below.
 
+<img src="/scshot/two[1].jpg" height="500px" width="300px">
